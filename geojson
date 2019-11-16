@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "description": "Vishwas city - 5",
+        "road name": "Satyamev vista road",
+        "village": "Gota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54064321517944,
+          23.099273144821165
+        ]
+      }
+    }
+  ]
+}
